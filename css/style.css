@@ -87,7 +87,7 @@
     margin-right: 50px;
     padding: 17px 0;
     position: relative;
-   
+
 }
 .nav-menu li a:hover{
     color: #000;
@@ -204,23 +204,24 @@ h1.text-center{
     padding:0 50px 120px;
 }
 .vid-height>.col4{
-    padding: 0px 15px;
+    padding: 0px 20px;
 }
 .v-wrapper{
     background: #f0f0f0;
-    padding: 1px 1px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    padding: 1px 1px 50px;
+    border-radius: 5px;
+    /* border-top-left-radius: 5px;
+    border-top-right-radius: 5px; */
 }
 .vid-title{
-    margin: 0;
+    /* margin: 0;
     background: #f0f0f0;
-    padding: 10px 5px;
+    padding: 10px 50px;
     border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px; */
 }
 .vid-title>p{
-    padding-left: 10px;
+    padding: 15px;
 }
 .page-footer{
     text-align: center;
